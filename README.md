@@ -5,7 +5,7 @@
 The good thing about this prgram is you can change any number of different extensions.
 Lets say, I have to change my ".HEIC", ".heic", ".png" ----> to "jpg"
 
-You can put all your extensions that you want to change in original varibale in the program
+You can put all your extensions that you want to change in original varibale in the program.
 original          = [".HEIC",".heic","png"]
 
 This extension ".jpg" is the desired extension that you want for example, so you can put this in the variable desired_extension.
